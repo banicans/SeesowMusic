@@ -2,8 +2,7 @@
 
 A modern, lightweight music player for Linux — built with GTK4 and libadwaita.
 
-![Seesow Music Screenshot](assets/screenshot-placeholder.png)
-> *Screenshot coming soon*
+![Seesow Music Screenshot](Screenshots/Album%20view.png)
 
 ---
 
@@ -28,9 +27,17 @@ A modern, lightweight music player for Linux — built with GTK4 and libadwaita.
 
 ## Screenshots
 
-| Home | Albums | Now Playing |
-|------|--------|-------------|
-| *coming soon* | *coming soon* | *coming soon* |
+| Albums | Album Details | Artist Details |
+|--------|--------------|----------------|
+| ![Albums](Screenshots/Album%20view.png) | ![Album Details](Screenshots/Album%20Details.png) | ![Artist Details](Screenshots/Artist%20Details.png) |
+
+| Playlists | Smart Playlists | Search |
+|-----------|----------------|--------|
+| ![Playlists](Screenshots/Playlists.png) | ![Smart Playlists](Screenshots/Smart%20Playlists.png) | ![Search](Screenshots/Search.png) |
+
+| Context Menu |
+|-------------|
+| ![Context Menu](Screenshots/Context%20Menu.png) |
 
 ---
 
